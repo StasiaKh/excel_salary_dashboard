@@ -9,7 +9,7 @@ I independently recreated the dashboard to practice Excel-based data analysis, d
 
 ### Dashboard File
 
-My final dashboard is in **[1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx)**.
+My final dashboard is in **[excel-salary-dashboard.xlsx](excel-salary-dashboard.xlsx)**.
 
 ## Excel Skills Used
 
